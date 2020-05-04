@@ -1,11 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12bebe9b-f52f-4681-bfec-854c1c412567" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bQI2Zfme5393I70IrjrLl0Tc9z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12bebe9b-f52f-4681-bfec-854c1c412567" name="Default Changelist" comment="" />
+      <created>1588557683358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588557683358</updated>
+      <workItem from="1588557685509" duration="1550000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2024" y="398" key="Github.ShareDialog" timestamp="1588557720596">
+      <screen x="1280" y="23" width="1920" height="985" />
+    </state>
+    <state x="2024" y="398" key="Github.ShareDialog/0.23.1280.777/1280.23.1920.985@1280.23.1920.985" timestamp="1588557720596" />
+    <state x="1928" y="156" key="Github.UntrackedFilesDialog" timestamp="1588557728888">
+      <screen x="1280" y="23" width="1920" height="985" />
+    </state>
+    <state x="1928" y="156" key="Github.UntrackedFilesDialog/0.23.1280.777/1280.23.1920.985@1280.23.1920.985" timestamp="1588557728888" />
+    <state x="2013" y="431" key="NewPhpFileDialog" timestamp="1588557784673">
+      <screen x="1280" y="23" width="1920" height="985" />
+    </state>
+    <state x="2013" y="431" key="NewPhpFileDialog/0.23.1280.777/1280.23.1920.985@1280.23.1920.985" timestamp="1588557784673" />
   </component>
 </project>
